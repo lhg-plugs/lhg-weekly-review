@@ -1,0 +1,1 @@
+{"hooks":{"PostToolUse":[{"hooks":[{"command":"python3 \"${CLAUDE_PLUGIN_ROOT}/hooks/post_report_audit.py\"","timeout":30,"type":"command"}],"matcher":"Write"}]}}

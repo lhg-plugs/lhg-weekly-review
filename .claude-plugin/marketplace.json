@@ -1,0 +1,1 @@
+{"$schema":"https://json.schemastore.org/claude-code-marketplace.json","name":"lhg-plugs","owner":{"name":"刘洪光"},"plugins":[{"description":"周报复盘专家：工作记录→结构化周报（完成/数据/问题/下周）→亮点提炼→风险预警（周报 / 数据亮点 / 风险预警 / 自查）","name":"lhg-weekly-review","source":"./"}]}
